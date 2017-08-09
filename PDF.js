@@ -1,7 +1,4 @@
-// If absolute URL from the remote server is provided, configure the CORS
-// header on that server.
-
-var url = 'https://github.com/mahmoudsaidNST/how-js-work/blob/master/%D8%AD%D9%82%D8%A7%D8%A6%D9%82%20%D8%A7%D9%84%D9%87%D8%A7%D9%83%D8%B1%20one%20edition%20Handbook.pdf';
+var url = 'http://download-pdf-ebooks.org/files/download-pdf-ebooks.org-1500319277Xq6R9.pdf';
 
 // The workerSrc property shall be specified.
 PDFJS.workerSrc = '//mozilla.github.io/pdf.js/build/pdf.worker.js';
